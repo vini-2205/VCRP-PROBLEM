@@ -1,0 +1,9 @@
+Solução ótima encontrada com custo total: 26.37338021109636
+Tempo de execução: 0.0063855648040771484 segundos
+Rotas:
+Rota de 0 para 1
+Rota de 0 para 2
+Rota de 1 para 4
+Rota de 2 para 0
+Rota de 3 para 0
+Rota de 4 para 3

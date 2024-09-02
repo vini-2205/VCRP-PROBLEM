@@ -1,0 +1,3 @@
+Melhor solução final: ([[np.int64(2), np.int64(5), np.int64(4)], [np.int64(3)]], np.float64(26.373380211096357))
+Custo final: 26.373380211096357
+Tempo de execução: 4.27 segundos
