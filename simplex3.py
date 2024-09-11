@@ -66,7 +66,7 @@ def save_results_and_plot(coordinates, solution, cost, exec_time, folder_path):
                     f.write(f'Rota de {i} para {j}\n')
 
 # Leitura do arquivo VRP
-file_path = 'A-n32-k5.vrp'
+file_path = 'test-n18.vrp'
 coordinates, demands, capacity, dimension = read_vrp_file(file_path)
 
 # Definindo a cidade 1 como o depósito

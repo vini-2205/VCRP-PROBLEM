@@ -1,0 +1,26 @@
+Solução ótima encontrada com custo total: 3632.5118399259864
+Tempo de execução: 82.15097165107727 segundos
+Rotas:
+Rota de 0 para 11
+Rota de 0 para 13
+Rota de 0 para 17
+Rota de 1 para 0
+Rota de 2 para 0
+Rota de 3 para 1
+Rota de 4 para 18
+Rota de 5 para 19
+Rota de 6 para 3
+Rota de 7 para 12
+Rota de 8 para 9
+Rota de 9 para 15
+Rota de 10 para 20
+Rota de 11 para 16
+Rota de 12 para 2
+Rota de 13 para 10
+Rota de 14 para 8
+Rota de 15 para 0
+Rota de 16 para 7
+Rota de 17 para 5
+Rota de 18 para 14
+Rota de 19 para 6
+Rota de 20 para 4
